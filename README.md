@@ -3,7 +3,7 @@ Nolan Enlow Pacers Fan
 
 ## 🏀 NBA Championship 2025-2026 Predictor 🏀
 
-A fun spinning wheel game that predicts the NBA Championship winner! Spin the wheel and watch it land on... wait for it... the **Indiana Pacers**! Every. Single. Time. 🎯
+A fun spinning wheel game that predicts the NBA Championship winner! The odds are updated live based on standings and team performances. 
 
 ### How to Run
 
@@ -24,16 +24,6 @@ A fun spinning wheel game that predicts the NBA Championship winner! Spin the wh
 
 1. Click the **"SPIN THE WHEEL"** button
 2. Watch the wheel spin with all 30 NBA teams
-3. The wheel will always land on the Indiana Pacers! 🏆
-4. Each spin includes smooth animations and a satisfying result display
-
-### Features
-
-- Beautiful animated spinning wheel with all 30 NBA teams
-- Colorful, modern UI design
-- Smooth rotation animations
-- Always rigged to land on the Indiana Pacers (but it looks random!)
-- Fully responsive design that works on desktop and mobile
 
 ### Files
 
