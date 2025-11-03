@@ -4,6 +4,8 @@ A fun spinning wheel game that predicts the NBA Championship winner! The odds ar
 
 ### How to Run
 
+#### Check out the code locally
+
 #### Option 1: Python Server (Recommended)
 1. Make sure you have Python installed
 2. Run the server script:
