@@ -1,6 +1,3 @@
-# NolanEnlow
-Nolan Enlow Pacers Fan
-
 ## 🏀 NBA Championship 2025-2026 Predictor 🏀
 
 A fun spinning wheel game that predicts the NBA Championship winner! The odds are updated live based on standings and team performances. 
@@ -31,3 +28,7 @@ A fun spinning wheel game that predicts the NBA Championship winner! The odds ar
 - `style.css` - Styling and animations
 - `script.js` - Wheel logic and rigged spin functionality
 - `server.py` - Simple Python HTTP server to run the app
+
+# Development
+
+Written and developed for Nolan Enlow on behalf of NolanEnlowEnterprises LLC
